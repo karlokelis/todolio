@@ -44,7 +44,7 @@ dependencies:
   flutter_svg: ^2.0.10
   
   # Backup/Restore
-  archive: ^4.0.7
+  archive: ^4.2.0
   
   # URL Launcher
   url_launcher: ^6.2.5
